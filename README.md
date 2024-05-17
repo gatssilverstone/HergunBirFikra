@@ -12,7 +12,7 @@ Fıkralar arasında rastgele ve sırayla geçiş yapılabilir, fıkralar başlı
 
 ## Kullanım
 
-Bu projeyi bilgisayarınızda çalıştırmak için gereklilikleri edinmelisiniz.
+Bu projeyi bilgisayarınızda çalıştırabilmek için gereklilikleri edinmelisiniz.
 
 ### Gereklilikler
 
